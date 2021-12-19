@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(238, 121, 228);
+}
+#img1{
+    height: 100px;
+    width: 100px;
+    position:absolute;
+     left: 100px;
+     top:100px;
+     right: 100px;
+     bottom: 100px;
+
+}
+.container{
+    margin-left: 100px;
+    margin-top: 0px;
+    font-size: xx-large;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
